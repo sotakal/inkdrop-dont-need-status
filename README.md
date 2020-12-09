@@ -1,2 +1,2 @@
-# inkdrop-dont-need-status
-If you don't need note status in Inkdrop, this plugin will hide it
+# (I) don't need status
+Make Inkdrop more minimal by hiding the status functionality if you don't use it.
