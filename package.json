@@ -1,7 +1,7 @@
 {
   "name": "dont-need-status",
   "main": "./lib/dont-need-status",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "If you don't need note status in Inkdrop, this plugin will hide it.",
   "keywords": [],
   "repository": "https://github.com/sotakal/inkdrop-dont-need-status",
